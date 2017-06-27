@@ -1,0 +1,1 @@
+This collection of files is based on the chapter examples associated with Joel Grus's "Data Science from Scratch."
